@@ -21,7 +21,6 @@ The objective of this project is to build a binary image classifier capable of r
 
 ---
 <img width="656" height="2400" alt="GAN" src="https://github.com/user-attachments/assets/1db24158-c550-4461-a1ab-48832a9ed496" />
-<img width="656" height="2400" alt="GAN" src="https://github.com/user-attachments/assets/733b6eea-c030-470b-bf58-63d99cfa2188" />
 
 
 # Dataset
@@ -153,7 +152,6 @@ After resizing, all images have identical dimensions.
 
 ---
 <img width="687" height="2400" alt="Deep Learning Multiclass Classification" src="https://github.com/user-attachments/assets/ef8af7e2-2f80-4532-a2b7-5d3e1ae83c81" />
-<img width="687" height="2400" alt="Deep Learning Multiclass Classification" src="https://github.com/user-attachments/assets/701249c3-051e-4cfe-9f0a-7b05d2af3771" />
 
 
 # Image Reshaping
@@ -229,8 +227,6 @@ Training uses:
 
 - 80% of the training data for learning
 - 20% for validation
-<img width="1456" height="2400" alt="R_DeepLearning_Example" src="https://github.com/user-attachments/assets/914e9968-8871-45ae-9992-6db81b367797" />
-![Uploading R_DeepLearning_Example.png…]()
 
 ---
 
@@ -329,7 +325,6 @@ For every image, the classifier returns:
 These probabilities are used to determine the predicted class.
 
 ---
-![Uploading TransferLearning.png…]()
 
 # Testing Results
 
@@ -389,6 +384,7 @@ Probability Estimation
       ▼
 Confusion Matrix
 ```
+<img width="2064" height="2400" alt="HyperparameterTuning" src="https://github.com/user-attachments/assets/6a9a4ded-35f3-4c28-9e12-568e088d23fe" />
 
 ---
 
@@ -408,7 +404,6 @@ Confusion Matrix
 | Confusion Matrix | Classification evaluation |
 
 ---
-<img width="2064" height="2400" alt="HyperparameterTuning" src="https://github.com/user-attachments/assets/6a9a4ded-35f3-4c28-9e12-568e088d23fe" />
 <img width="770" height="2400" alt="Experiment R File" src="https://github.com/user-attachments/assets/80468941-a9d8-4751-957e-f2272c6f467e" />
 
 # Final Outcome
