@@ -20,6 +20,9 @@ The implementation covers the complete pipeline from loading raw images to evalu
 The objective of this project is to build a binary image classifier capable of recognizing airplane and car images after preprocessing and feature preparation using R and TensorFlow.
 
 ---
+<img width="656" height="2400" alt="GAN" src="https://github.com/user-attachments/assets/1db24158-c550-4461-a1ab-48832a9ed496" />
+<img width="656" height="2400" alt="GAN" src="https://github.com/user-attachments/assets/733b6eea-c030-470b-bf58-63d99cfa2188" />
+
 
 # Dataset
 
@@ -130,6 +133,9 @@ Before training, every image is inspected using:
 - Pixel intensity histogram
 
 The project converts every image into numerical pixel values for neural network processing.
+<img width="1632" height="2400" alt="LSTM" src="https://github.com/user-attachments/assets/0817420f-092b-4ba0-a8a6-0b9d8593f675" />
+<img width="208" height="2400" alt="GAN_Compare" src="https://github.com/user-attachments/assets/819aecb3-9026-4aaa-beba-7d0e33e4ae14" />
+<img width="656" height="2400" alt="GAN" src="https://github.com/user-attachments/assets/20bb962d-e455-4546-9435-741fe9537b0d" />
 
 ---
 
@@ -146,6 +152,9 @@ To ensure consistent input size, every image is resized to:
 After resizing, all images have identical dimensions.
 
 ---
+<img width="687" height="2400" alt="Deep Learning Multiclass Classification" src="https://github.com/user-attachments/assets/ef8af7e2-2f80-4532-a2b7-5d3e1ae83c81" />
+<img width="687" height="2400" alt="Deep Learning Multiclass Classification" src="https://github.com/user-attachments/assets/701249c3-051e-4cfe-9f0a-7b05d2af3771" />
+
 
 # Image Reshaping
 
@@ -186,6 +195,9 @@ Model architecture:
 | Dense Layer 1 | 256 Neurons (ReLU) |
 | Dense Layer 2 | 128 Neurons (ReLU) |
 | Output Layer | 2 Neurons (Softmax) |
+![Uploading DeepNetworkWithMNIST.png…]()
+![Uploading DeepNetworkWithMNIST.png…]()
+
 
 ---
 
@@ -215,6 +227,11 @@ Training uses:
 
 - 80% of the training data for learning
 - 20% for validation
+<img width="1456" height="2400" alt="R_DeepLearning_Example" src="https://github.com/user-attachments/assets/914e9968-8871-45ae-9992-6db81b367797" />
+![Uploading R_DeepLearning_Example.png…]()
+![Uploading R_DeepLearning_Example.png…]()
+![Uploading R_DeepLearning_Example.png…]()
+![Uploading DeepNetworkWithMNIST.png…]()
 
 ---
 
@@ -255,6 +272,8 @@ Training history is monitored using:
 
 Loss decreases during training while accuracy improves and stabilizes after several epochs.
 
+<img width="2064" height="2400" alt="HyperparameterTuning" src="https://github.com/user-attachments/assets/fdba7a21-d7ae-4faf-9d73-7c608f9b9c55" />
+
 ---
 
 # Model Evaluation
@@ -270,6 +289,10 @@ Evaluation metrics include:
 - Accuracy
 
 ---
+![Uploading TransferLearning.png…]()
+![Uploading TransferLearning.png…]()
+![Uploading TransferLearning.png…]()
+![Uploading R_DeepLearning_Example.png…]()
 
 # Training Results
 
@@ -309,6 +332,7 @@ For every image, the classifier returns:
 These probabilities are used to determine the predicted class.
 
 ---
+![Uploading TransferLearning.png…]()
 
 # Testing Results
 
@@ -387,6 +411,8 @@ Confusion Matrix
 | Confusion Matrix | Classification evaluation |
 
 ---
+<img width="2064" height="2400" alt="HyperparameterTuning" src="https://github.com/user-attachments/assets/6a9a4ded-35f3-4c28-9e12-568e088d23fe" />
+<img width="770" height="2400" alt="Experiment R File" src="https://github.com/user-attachments/assets/80468941-a9d8-4751-957e-f2272c6f467e" />
 
 # Final Outcome
 
