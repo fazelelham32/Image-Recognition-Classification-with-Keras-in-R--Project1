@@ -195,7 +195,7 @@ Model architecture:
 | Dense Layer 1 | 256 Neurons (ReLU) |
 | Dense Layer 2 | 128 Neurons (ReLU) |
 | Output Layer | 2 Neurons (Softmax) |
-![Uploading DeepNetworkWithMNIST.png…]()
+<img width="2279" height="2400" alt="DeepNetworkWithMNIST" src="https://github.com/user-attachments/assets/7198d6e7-827e-4da5-8ed8-79616dcf4ce1" />
 
 
 
@@ -210,8 +210,8 @@ Training configuration:
 | Loss Function | Binary Crossentropy |
 | Optimizer | RMSProp |
 | Evaluation Metric | Accuracy |
-![Uploading DeepNetworkWithMNIST.png…]()![Uploading DeepNetworkWithMNIST.png…]()
-![Uploading DeepNetworkWithMNIST.png…]()
+<img width="1456" height="2400" alt="R_DeepLearning_Example" src="https://github.com/user-attachments/assets/da043902-1578-416b-8d3c-0158f82bedf7" />
+
 
 ---
 
@@ -289,10 +289,7 @@ Evaluation metrics include:
 - Accuracy
 
 ---
-![Uploading TransferLearning.png…]()
-![Uploading TransferLearning.png…]()
-![Uploading TransferLearning.png…]()
-![Uploading R_DeepLearning_Example.png…]()
+<img width="1232" height="2400" alt="TransferLearning" src="https://github.com/user-attachments/assets/36185a00-f4ed-4dbb-b97b-ab531f370df3" />
 
 # Training Results
 
